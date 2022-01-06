@@ -1,1 +1,1 @@
-![image](src/assets/demo.JIF)
+![image](src/assets/demo.gif)
